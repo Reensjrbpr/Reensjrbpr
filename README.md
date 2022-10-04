@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reensjrbpr
 - 👀 I’m interested in web development, software development, and data analysis. 
-- 🌱 I’m currently learning through The Odin Project.
+- 🌱 I’m currently learning through The Odin Project and I'm a Computer Science student at SNHU.
 - 💞️ I’m looking to collaborate on anything that can help me become a better developer.
 - 📫 How to reach me: brianreens@gmail.com
 
